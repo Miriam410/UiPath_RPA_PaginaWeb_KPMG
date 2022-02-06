@@ -1,6 +1,6 @@
 # UiPath_RPA_PaginaWeb_KPMG
 
-# Ejercicio: Extraer texto de una página web y guardarla en Notepad
+## Ejercicio: Extraer texto de una página web y guardarla en Notepad
 - Ingresar al navegador "Microsoft Edge"
 - Buscar por Google: KPMG
     - Click en el menú
